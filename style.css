@@ -26,9 +26,11 @@
 }
 .active-link {
     color: #A62B28;
+    margin: 0px 35px;
 }
 .link {
     color: #717276;
+    margin: 0px 35px;
 }
 header nav {
     margin-right: 130px;
@@ -38,6 +40,8 @@ header ul {
     font-family: alk;
     font-size: 24px;
     font-weight: 400;
+    line-height: 24px;
+    margin: 0 35px;
 }
 ul,
 ol {
